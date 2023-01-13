@@ -1,4 +1,10 @@
-<?php
+<!DOCTYPE html>
+<html>
+<body>
 
-echo "Hello World!"; 
-echo "Hello future";
+<h1>Developer News</h1>
+
+<?php echo "The Best PHP Examples"; ?>
+
+</body>
+</html> 
